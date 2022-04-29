@@ -1,4 +1,4 @@
-> # **_`✨Profile ✨`_**
+> # **_✨Profile ✨_**
 
 - `Name` : _Nguyễn Anh Tuấn_
 - `Phone`: _0123456789_
@@ -8,11 +8,11 @@
 - `Hobbies`: _Anime,Movie,Manga,Game....._
 - `Gender` : _Nam_
 
-### `Image`
+### Image
 
 ![image](https://wiki.tino.org/wp-content/uploads/2021/09/pasted-image-0.png)
 
-### `ReactJS`
+### ReactJS
 
 1. Overview
 
@@ -27,17 +27,17 @@
 2. Install
 
    ```sh
-       - npm i create-react-app
-       - npx create-react-app my-app
+       - `npm i create-react-app`
+       - `npx create-react-app my-app`
    ```
 
-### `Getting Start`
+### Getting Start
 
 1.  Start Project
 
     ```
-    - npm i
-    - npm start
+    - `npm i`
+    - `npm start`
     ```
 
 2.  Find the following code block:
