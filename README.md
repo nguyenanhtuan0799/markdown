@@ -27,8 +27,8 @@
 2. Install
 
    ```sh
-       - `npm i create-react-app`
-       - `npx create-react-app my-app`
+    - `npm i create-react-app`
+    - `npx create-react-app my-app`
    ```
 
 > ### Getting Start
